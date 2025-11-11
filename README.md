@@ -28,9 +28,11 @@ Langkah pra-pemrosesan:
 
 ## Hasil Visualisasi
 - **Distribusi Sentimen:** Bar plot jumlah ulasan positif vs negatif  
-  ![Distribusi Sentimen](images/sentiment_distribution.png)
+  ![Distribusi Sentimen](Proyek1-SentimentAnalysis/Proyek 1 – Sentiment Analysis
+/Visualisasi/Visualisasi_Distribution of Sentiments.png)
 - **Word Cloud:** Kata-kata paling sering muncul setelah preprocessing  
-  ![Word Cloud](images/wordcloud.png)
+  ![Word Cloud](Proyek1-SentimentAnalysis/Proyek 1 – Sentiment Analysis
+/Visualisasi/Visualisasi_Word Cloud of Reviews.png)
 
 ## Cara Menjalankan
 1. Buka `notebook.ipynb` di Google Colab atau Jupyter Notebook.
