@@ -28,14 +28,15 @@ Langkah pra-pemrosesan:
 
 ## Hasil Visualisasi
 - **Distribusi Sentimen:** Bar plot jumlah ulasan positif vs negatif  
-  ![Distribusi Sentimen](Proyek1-SentimentAnalysis/Proyek 1 – Sentiment Analysis
-/Visualisasi/Visualisasi_Distribution of Sentiments.png)
+  ![Distribusi Sentimen](Proyek1-SentimentAnalysis/Proyek_1_–_Sentiment_Analysis
+/Visualisasi/Visualisasi_Distribution_of_Sentiments.png)
 - **Word Cloud:** Kata-kata paling sering muncul setelah preprocessing  
-  ![Word Cloud](Proyek1-SentimentAnalysis/Proyek 1 – Sentiment Analysis
-/Visualisasi/Visualisasi_Word Cloud of Reviews.png)
+  ![Word Cloud](Proyek1-SentimentAnalysis/Proyek_1_–_Sentiment_Analysis
+/Visualisasi/Visualisasi_Word_Cloud_of_Reviews.png)
 
 ## Cara Menjalankan
 1. Buka `notebook.ipynb` di Google Colab atau Jupyter Notebook.
 2. Jalankan semua cell.
 3. Model siap digunakan untuk prediksi review baru.
+
 
